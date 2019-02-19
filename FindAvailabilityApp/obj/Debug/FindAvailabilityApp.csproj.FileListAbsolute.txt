@@ -1,0 +1,7 @@
+C:\Users\Rumyana.Vaseva\Documents\Tasks\Personal\FindAvailabilityApp\FindAvailabilityApp\bin\Debug\FindAvailabilityApp.exe.config
+C:\Users\Rumyana.Vaseva\Documents\Tasks\Personal\FindAvailabilityApp\FindAvailabilityApp\bin\Debug\FindAvailabilityApp.exe
+C:\Users\Rumyana.Vaseva\Documents\Tasks\Personal\FindAvailabilityApp\FindAvailabilityApp\bin\Debug\FindAvailabilityApp.pdb
+C:\Users\Rumyana.Vaseva\Documents\Tasks\Personal\FindAvailabilityApp\FindAvailabilityApp\obj\Debug\FindAvailabilityApp.csprojAssemblyReference.cache
+C:\Users\Rumyana.Vaseva\Documents\Tasks\Personal\FindAvailabilityApp\FindAvailabilityApp\obj\Debug\FindAvailabilityApp.csproj.CoreCompileInputs.cache
+C:\Users\Rumyana.Vaseva\Documents\Tasks\Personal\FindAvailabilityApp\FindAvailabilityApp\obj\Debug\FindAvailabilityApp.exe
+C:\Users\Rumyana.Vaseva\Documents\Tasks\Personal\FindAvailabilityApp\FindAvailabilityApp\obj\Debug\FindAvailabilityApp.pdb
